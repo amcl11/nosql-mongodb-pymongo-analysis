@@ -5,6 +5,7 @@
 For this week's challenge we used our knowledge of MongoDB and PyMongo to perform data cleaning and analysis on UK Food Establishments data. 
 
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. In this hypothetical analysis, we have been contracted by the editors of a food magazine, "Eat Safe, Love", to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.  <br>
+<br>
 
 ### Resources:
 UK Food Establishments data is located in the ["Resources"](https://github.com/amcl11/nosql-challenge/tree/main/Resources) directory. File is "establishments.json"  <br>
@@ -13,14 +14,14 @@ UK Food Establishments data is located in the ["Resources"](https://github.com/a
 
 Jupyter Notebook code file for Part 1 & 2: [NoSQL_setup_starter.ipynb](https://github.com/amcl11/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb)
 
-Part 1 & 2 require PyMongo and pprint  <br>
+*Part 1 & 2 require PyMongo and pprint*  <br>
 <br>
 
 ### Part 3  - Exploratory Analysis 🧐🍜:
 
 Jupyter Notebook code file for Part 3: [NoSQL_analysis_starter.ipynb](https://github.com/amcl11/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb)
 
-Part 3 require PyMongo, pprint, and Pandas  <br>
+*Part 3 require PyMongo, pprint, and Pandas*  <br>
 <br>
 
 ### References
