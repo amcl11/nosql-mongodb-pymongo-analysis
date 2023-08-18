@@ -1,0 +1,29 @@
+# NoSQL Challenge - Module 12 Data Analytics Bootcamp 
+
+## Project Description: 
+
+For this week's challenge we used our knowledge of MongoDB and PyMongo to perform data cleaning and analysis on UK Food Establishments data. 
+
+The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. In this hypothetical analysis, we have been contracted by the editors of a food magazine, "Eat Safe, Love", to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
+
+
+### Part 1 - Database and Jupyter Notebook Set Up 🍔🍕:
+
+Jupyter Notebook code file: [NoSQL_setup_starter.ipynb](https://github.com/amcl11/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb)
+
+Section 1 requires Splinter, BeautifulSoup, JSON, and Chrome DevTools.
+
+The final output for Part 1 includes the Mars news article titles and previews stored in the [news_data.json](https://github.com/amcl11/web-scraping-challenge/blob/main/news_data.json) file. 
+<br>
+
+### Part 2 - Scraping the [Mars weather data website](https://static.bc-edx.com/data/web/mars_facts/temperature.html) 🪐☀️🌦️:
+
+Jupyter Notebook code file: [part_2_mars_weather.ipynb](https://github.com/amcl11/web-scraping-challenge/blob/main/part_2_mars_weather.ipynb)
+
+Section 2 requires Splinter, Beautiful Soup, Matplotlib, and Pandas. 
+
+The final scraped weather data is stored in the CSV file [mars_analysis.csv](https://github.com/amcl11/web-scraping-challenge/blob/main/mars_analysis.csv)
+<br>
+
+### References
+The Mars News website is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from [NASA's Mars News](https://mars.nasa.gov/) website in November 2022. Images are used according to the JPL Image Use Policy, courtesy NASA/JPL-Caltech.
