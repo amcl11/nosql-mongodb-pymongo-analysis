@@ -7,7 +7,7 @@ For this week's challenge we used our knowledge of MongoDB and PyMongo to perfor
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. In this hypothetical analysis, we have been contracted by the editors of a food magazine, "Eat Safe, Love", to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
 
 ### Resources:
-UK Food Establishments data is located in the ["Resources"](https://github.com/amcl11/nosql-challenge/tree/main/Resources) directory. File is "establishments.json"
+UK Food Establishments data is located in the ["Resources"](https://github.com/amcl11/nosql-challenge/tree/main/Resources) directory. File is "establishments.json"  <br>
 <br>
 <br>
 <br>
