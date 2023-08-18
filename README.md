@@ -15,14 +15,12 @@ Jupyter Notebook code file for Part 1 & 2: [NoSQL_setup_starter.ipynb](https://g
 
 Part 1 & 2 require PyMongo and pprint  <br>
 <br>
-<br>
 
 ### Part 3  - Exploratory Analysis 🧐🍜:
 
 Jupyter Notebook code file for Part 3: [NoSQL_analysis_starter.ipynb](https://github.com/amcl11/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb)
 
 Part 3 require PyMongo, pprint, and Pandas  <br>
-<br>
 <br>
 
 ### References
