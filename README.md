@@ -21,7 +21,7 @@ Jupyter Notebook code file for Part 1 & 2: [NoSQL_setup_starter.ipynb](https://g
 
 Jupyter Notebook code file for Part 3: [NoSQL_analysis_starter.ipynb](https://github.com/amcl11/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb)
 
-*Part 3 require PyMongo, pprint, and Pandas*  <br>
+*Part 3 requires PyMongo, pprint, and Pandas*  <br>
 <br>
 
 ### References
