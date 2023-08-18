@@ -24,7 +24,7 @@ Jupyter Notebook code file for Part 3: [NoSQL_analysis_starter.ipynb](https://gi
 *Part 3 requires PyMongo, pprint, and Pandas*  <br>
 <br>
 
-### References
+### References:
 [UK Food Standards Agency](https://www.food.gov.uk/) (2022). UK food hygiene rating data API. 
 Accessed Sept 9, 2022 and Sept 12, 2022 with the establishment settings as follows: longitude=51.5072, latitude=-0.1276, maxdistancelimit=4567, pagesize=10000, sortoptionkey=distance, pagenumber=(1,2,3,4,5,6,7,8).
 
