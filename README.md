@@ -10,13 +10,12 @@ The UK Food Standards Agency evaluates various establishments across the United 
 UK Food Establishments data is located in the ["Resources"](https://github.com/amcl11/nosql-challenge/tree/main/Resources) directory. File is "establishments.json"  <br>
 <br>
 <br>
-<br>
-<br>
+
 ### Part 1 & 2 - Database and Jupyter Notebook Set Up 🍔🍕:
 
 Jupyter Notebook code file for Part 1 & 2: [NoSQL_setup_starter.ipynb](https://github.com/amcl11/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb)
 
-Part 1 & 2 require PyMongo and pprint
+Part 1 & 2 require PyMongo and pprint  <br>
 <br>
 
 
@@ -24,7 +23,7 @@ Part 1 & 2 require PyMongo and pprint
 
 Jupyter Notebook code file for Part 3: [NoSQL_analysis_starter.ipynb](https://github.com/amcl11/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb)
 
-Part 3 require PyMongo, pprint, and Pandas
+Part 3 require PyMongo, pprint, and Pandas  <br>
 <br>
 
 
