@@ -9,15 +9,13 @@ The UK Food Standards Agency evaluates various establishments across the United 
 ### Resources:
 UK Food Establishments data is located in the ["Resources"](https://github.com/amcl11/nosql-challenge/tree/main/Resources) directory. File is "establishments.json"  <br>
 <br>
-<br>
-
 ### Part 1 & 2 - Database and Jupyter Notebook Set Up 🍔🍕:
 
 Jupyter Notebook code file for Part 1 & 2: [NoSQL_setup_starter.ipynb](https://github.com/amcl11/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb)
 
 Part 1 & 2 require PyMongo and pprint  <br>
 <br>
-
+<br>
 
 ### Part 3  - Exploratory Analysis 🧐🍜:
 
@@ -25,7 +23,7 @@ Jupyter Notebook code file for Part 3: [NoSQL_analysis_starter.ipynb](https://gi
 
 Part 3 require PyMongo, pprint, and Pandas  <br>
 <br>
-
+<br>
 
 ### References
 [UK Food Standards Agency](https://www.food.gov.uk/) (2022). UK food hygiene rating data API. 
